@@ -120,11 +120,7 @@ QuickRate/
 
 #### Add Product Interface
 
-![Inventory Screenshot 1](assets/inventory1.png)
-
-#### Product Added Successfully
-
-![Inventory Screenshot 2](assets/inventory2.png)
+![Inventory Screenshot 1](inventory1.png)
 
 ---
 
@@ -132,11 +128,11 @@ QuickRate/
 
 #### Upload Product Image
 
-![Scanner Screenshot 1](assets/scanner1.png)
+![Scanner Screenshot 1](scanner1.png)
 
 #### Product Recognition & Pricing Details
 
-![Scanner Screenshot 2](assets/scanner2.png)
+![Scanner Screenshot 2](scanner2.png)
 
 ---
 
