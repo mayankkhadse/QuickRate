@@ -120,7 +120,7 @@ QuickRate/
 
 #### Add Product Interface
 
-![Inventory Screenshot 1](inventory.png)
+![Inventory Screenshot](inventory.png)
 
 ---
 
