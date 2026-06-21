@@ -1,9 +1,10 @@
 streamlit
 pandas
 numpy
-scikit-learn
-matplotlib
+Pillow
 torch
 torchvision
 ftfy
-clip @ git+https://github.com/openai/CLIP.git
+regex
+tqdm
+faiss-cpu
