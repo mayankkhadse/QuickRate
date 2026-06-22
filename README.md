@@ -201,11 +201,15 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Developer
+## Author
 
 **Mayank Khadse**
+B-Tech Electronics & Telecommunication Engineering
+Suryodaya College of Engineering and Technology (RTMNU), Nagpur
 
-Passionate about Artificial Intelligence, Machine Learning, and building impactful software solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mayank-khadse)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mayankkhadse)
+
 
 ---
 
